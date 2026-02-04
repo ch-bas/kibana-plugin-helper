@@ -1,0 +1,14 @@
+{
+  "name": "kibana-dev-marketplace",
+  "owner": {
+    "name": "Bassem Chagra",
+    "github": "github/ch-bas"
+  },
+  "plugins": [
+    {
+      "name": "kibana-plugin-helper",
+      "source": "./kibana-plugin-helper",
+      "description": "Comprehensive toolkit for developing Kibana external plugins (8.x+). Scaffolding, routes, EUI components, security, testing, and architecture review."
+    }
+  ]
+}

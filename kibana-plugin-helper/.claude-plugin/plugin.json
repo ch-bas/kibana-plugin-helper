@@ -1,0 +1,13 @@
+{
+  "name": "kibana-plugin-helper",
+  "version": "1.0.0",
+  "description": "Comprehensive toolkit for developing Kibana external plugins (8.x+)",
+  "author": {
+    "name": "Bassem Chagra",
+    "github": "github/ch-bas"
+  },
+  "repository": "https://github.com/ch-bas/kibana-plugin-helper",
+  "homepage": "https://github.com/ch-bas/kibana-plugin-helper",
+  "license": "MIT",
+  "keywords": ["kibana", "elastic", "eui", "plugin-development"]
+}
