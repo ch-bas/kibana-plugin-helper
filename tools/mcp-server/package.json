@@ -1,0 +1,21 @@
+{
+  "name": "@kibana-plugin-helper/mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for Kibana plugin development — provides live Kibana source introspection, API compatibility checks, type checking, and development utilities",
+  "type": "module",
+  "main": "index.mjs",
+  "bin": {
+    "kibana-plugin-dev-mcp": "./index.mjs"
+  },
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "kibana", "elasticsearch", "plugin-development"]
+}
