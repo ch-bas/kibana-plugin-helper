@@ -1,6 +1,6 @@
 {
   "name": "kibana-plugin-helper",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Comprehensive toolkit for developing Kibana external plugins (8.x+)",
   "author": {
     "name": "Bassem Chagra",
